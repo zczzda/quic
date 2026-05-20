@@ -1,0 +1,8 @@
+seed: 42
+epochs: 5
+batch_size: 64
+lr: 0.001
+seq_len: 128
+stats_dim: 16
+num_classes: 4
+output_dir: outputs
